@@ -1,2 +1,2 @@
 # Roadmap-for-AI-and-digital-transformation-specialist
-Based on job description I've built a roadmap for becoming an AI and digital transformation specialist
+Based on job description I've built a roadmap for becoming an AI and digital transformation specialist. I was inspired by Quincy from FreeCode Camp to buy a budget laptop and to start to learn to code. I took me a while until I realized what I  would like to learn and finally I dicovered that I like data analytics combined with technical skills like networking and IT Support. I come from the backgound of Human Resources and I try to switch careers.
